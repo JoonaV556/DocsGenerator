@@ -1,0 +1,11 @@
+- C# function documentation generation
+
+
+- ask user for a code file path 
+
+- throw error if file 
+
+- Generate docs for each function in a file
+-- find function implementation for a function
+-- Ask llm to generate function docs by using function implementation as prompt 
+-- insert xml doc field on new lines above function
