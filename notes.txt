@@ -1,5 +1,5 @@
 - C# function documentation generation
-
+- gemini https://ai.google.dev/gemini-api/docs/pricing ????
 
 - ask user for a code file path 
 
